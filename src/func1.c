@@ -1,7 +1,7 @@
 #include "funcs.h"
 
-void foo()
+void foo(int m)
 {
-    printf("foo\n");
+    printf("foo %d\n", m);
     return;
 }

@@ -2,8 +2,8 @@
 
 int main()
 {
-    foo();
+    foo(1234);
     goo();
-    
+
     return 0;
 }
